@@ -1,0 +1,18 @@
+{
+  "name": "citypassports",
+  "version": "1.0.0",
+  "description": "First Test",
+  "main": "y",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cityrewards"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "charlbestercpt",
+  "license": "ISC"
+}
